@@ -1,0 +1,296 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EzPass Prototype 1
+</name>
+</assembly>
+<members>
+<member name="T:EzPass_Prototype_1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources._Exit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.arrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.Car">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.credentialVector">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.Database_Vector">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.Database_Vector1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.EzPass_Login_Background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.EzPass_Login_Background_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.Ezpass_Registration_Login_Background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.EzPass_Registration_Vector">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.EzPass_Registration_Vector1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.EzPass_update_vector">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.EzPass_Vector">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.EzPass_Vector1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.ReturnUsers_Vector">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.SportsCar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.SportsCar1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.SportsCar2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.Tag_Status_Vector">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.Toll_Refund_Vector">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:EzPass_Prototype_1.My.Resources.Resources.Toll_Vector">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem.CustomersTollDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem.EmployeeAccountsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem.CustomersInfoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem.TollCodesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem.LostTagsInfoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem.ReturnedTagsInfoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem.CustomersTollRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem.EmployeeAccountsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem.CustomersInfoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem.TollCodesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem.LostTagsInfoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem.ReturnedTagsInfoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem.CustomersTollRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem.EmployeeAccountsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem.CustomersInfoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem.TollCodesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem.LostTagsInfoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystem.ReturnedTagsInfoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystemTableAdapters.CustomersTollTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystemTableAdapters.EmployeeAccountsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystemTableAdapters.CustomersInfoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystemTableAdapters.TollCodesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystemTableAdapters.LostTagsInfoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystemTableAdapters.ReturnedTagsInfoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystemTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:EzPass_Prototype_1.EzPassDBSystemTableAdapters.TableAdapterManager.UpdateUpdatedRows(EzPass_Prototype_1.EzPassDBSystem,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:EzPass_Prototype_1.EzPassDBSystemTableAdapters.TableAdapterManager.UpdateInsertedRows(EzPass_Prototype_1.EzPassDBSystem,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:EzPass_Prototype_1.EzPassDBSystemTableAdapters.TableAdapterManager.UpdateDeletedRows(EzPass_Prototype_1.EzPassDBSystem,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:EzPass_Prototype_1.EzPassDBSystemTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:EzPass_Prototype_1.EzPassDBSystemTableAdapters.TableAdapterManager.UpdateAll(EzPass_Prototype_1.EzPassDBSystem)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystemTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:EzPass_Prototype_1.EzPassDBSystemTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
